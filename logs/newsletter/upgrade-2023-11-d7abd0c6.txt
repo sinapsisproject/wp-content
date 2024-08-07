@@ -1,0 +1,33 @@
+08-11-2023 14:49:10 - INFO  - 8.0.3 - 73,8 MB/512 MB - admin > Start upgrade from 8.0.2
+08-11-2023 14:49:10 - INFO  - 8.0.3 - 74,1 MB/512 MB - admin > Array
+(
+    [`wp6u_newsletter_emails`] => Created table `wp6u_newsletter_emails`
+)
+
+08-11-2023 14:49:10 - INFO  - 8.0.3 - 74,1 MB/512 MB - admin > Array
+(
+    [`wp6u_newsletter_sent`] => Created table `wp6u_newsletter_sent`
+)
+
+08-11-2023 14:49:10 - INFO  - 8.0.3 - 74,1 MB/512 MB - admin > Array
+(
+    [`wp6u_newsletter`] => Created table `wp6u_newsletter`
+)
+
+08-11-2023 14:49:10 - INFO  - 8.0.3 - 74,1 MB/512 MB - admin > Array
+(
+    [`wp6u_newsletter_user_logs`] => Created table `wp6u_newsletter_user_logs`
+)
+
+08-11-2023 14:49:10 - INFO  - 8.0.3 - 74,1 MB/512 MB - admin > Array
+(
+    [`wp6u_newsletter_user_meta`] => Created table `wp6u_newsletter_user_meta`
+)
+
+08-11-2023 14:49:10 - INFO  - 8.0.3 - 74,1 MB/512 MB - admin > Array
+(
+    [`wp6u_newsletter_stats`] => Created table `wp6u_newsletter_stats`
+)
+
+08-11-2023 14:49:10 - INFO  - 8.0.3 - 74,1 MB/512 MB - admin > Backing up options of 8.0.2
+08-11-2023 14:49:10 - INFO  - 8.0.3 - 74,2 MB/512 MB - admin > End

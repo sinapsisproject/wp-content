@@ -1,0 +1,58 @@
+22-09-2023 20:37:13 - INFO  - 7.9.4 - 28,4 MB/512 MB -  > Start upgrade from 7.0.0
+22-09-2023 20:37:13 - INFO  - 7.9.4 - 30,6 MB/512 MB -  > Array
+(
+    [`wp6u_newsletter_emails`] => Created table `wp6u_newsletter_emails`
+)
+
+22-09-2023 20:37:13 - INFO  - 7.9.4 - 30,6 MB/512 MB -  > Array
+(
+    [`wp6u_newsletter_sent`] => Created table `wp6u_newsletter_sent`
+)
+
+22-09-2023 20:37:13 - INFO  - 7.9.4 - 30,6 MB/512 MB -  > Array
+(
+    [`wp6u_newsletter`] => Created table `wp6u_newsletter`
+    [wp6u_newsletter.source] => Added column wp6u_newsletter.source
+)
+
+22-09-2023 20:37:13 - INFO  - 7.9.4 - 30,6 MB/512 MB -  > Array
+(
+    [`wp6u_newsletter_user_logs`] => Created table `wp6u_newsletter_user_logs`
+)
+
+22-09-2023 20:37:13 - INFO  - 7.9.4 - 30,6 MB/512 MB -  > Array
+(
+    [`wp6u_newsletter_stats`] => Created table `wp6u_newsletter_stats`
+)
+
+22-09-2023 20:37:13 - INFO  - 7.9.4 - 30,6 MB/512 MB -  > Backing up options of 7.0.0
+22-09-2023 20:37:13 - INFO  - 7.9.4 - 30,7 MB/512 MB -  > Migration to 7.8.0
+22-09-2023 20:37:13 - INFO  - 7.9.4 - 30,8 MB/512 MB -  > End
+29-09-2023 13:53:53 - INFO  - 7.9.5 - 110,4 MB/512 MB -  > Start upgrade from 7.9.4
+29-09-2023 13:53:53 - INFO  - 7.9.5 - 115,8 MB/512 MB -  > Array
+(
+    [`wp6u_newsletter_emails`] => Created table `wp6u_newsletter_emails`
+)
+
+29-09-2023 13:53:53 - INFO  - 7.9.5 - 115,8 MB/512 MB -  > Array
+(
+    [`wp6u_newsletter_sent`] => Created table `wp6u_newsletter_sent`
+)
+
+29-09-2023 13:53:53 - INFO  - 7.9.5 - 115,9 MB/512 MB -  > Array
+(
+    [`wp6u_newsletter`] => Created table `wp6u_newsletter`
+)
+
+29-09-2023 13:53:53 - INFO  - 7.9.5 - 115,8 MB/512 MB -  > Array
+(
+    [`wp6u_newsletter_user_logs`] => Created table `wp6u_newsletter_user_logs`
+)
+
+29-09-2023 13:53:53 - INFO  - 7.9.5 - 115,8 MB/512 MB -  > Array
+(
+    [`wp6u_newsletter_stats`] => Created table `wp6u_newsletter_stats`
+)
+
+29-09-2023 13:53:53 - INFO  - 7.9.5 - 115,8 MB/512 MB -  > Backing up options of 7.9.4
+29-09-2023 13:53:53 - INFO  - 7.9.5 - 115,9 MB/512 MB -  > End
