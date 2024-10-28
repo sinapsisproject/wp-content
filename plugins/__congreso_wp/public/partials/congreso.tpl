@@ -2,7 +2,7 @@
 
     <div class="container">
         <div class="col-12 text-center">
-            <h1 class="title-congreso">Endocrinología y Diabetología Hospitalaria: desde la Consulta a la UPC.</h1>
+            <h1 class="title-congreso">Congreso Medicina Interna en 5 Minutos.</h1>
         </div>
 
 
