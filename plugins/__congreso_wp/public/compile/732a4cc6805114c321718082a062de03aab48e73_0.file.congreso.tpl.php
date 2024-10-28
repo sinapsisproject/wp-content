@@ -25,7 +25,7 @@ function content_667f94fa6f8403_84080377 (Smarty_Internal_Template $_smarty_tpl)
 
     <div class="container">
         <div class="col-12 text-center">
-            <h1 class="title-congreso">Endocrinología y Diabetología Hospitalaria: desde la Consulta a la UPC.</h1>
+            <h1 class="title-congreso">Congreso Medicina Interna en 5 Minutos.</h1>
         </div>
 
 
@@ -173,7 +173,7 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
                     <img src="http://local.sinapsis.cl/wp-content/uploads/2024/02/Estrategia-HEARTS.png" alt="">
                 </div>
                 <div class="col-12 col-md-7">
-                    <p style="font-size: 20px"><strong>Endocrinología y Diabetología Hospitalaria: desde la Consulta a la UPC.</strong></p>
+                    <p style="font-size: 20px"><strong>Congreso Medicina Interna en 5 Minutos.</strong></p>
                 </div>
 
                 <div class="col-12 mt-4">
