@@ -141,7 +141,7 @@
                     <img src="http://local.sinapsis.cl/wp-content/uploads/2024/02/Estrategia-HEARTS.png" alt="">
                 </div>
                 <div class="col-12 col-md-7">
-                    <p style="font-size: 20px"><strong>Endocrinología y Diabetología Hospitalaria: desde la Consulta a la UPC.</strong></p>
+                    <p style="font-size: 20px"><strong>Congreso Medicina Interna en 5 Minutos.</strong></p>
                 </div>
 
                 <div class="col-12 mt-4">
